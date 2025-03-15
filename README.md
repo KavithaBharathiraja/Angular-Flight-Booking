@@ -1,2 +1,2 @@
-Password for Admin : 123A
-to run frontend : ng serve
+Password for Admin : 123A  ----
+To run frontend : ng serve
